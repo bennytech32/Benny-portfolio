@@ -1,0 +1,19 @@
+{
+  "name": "it-tech-expert-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Senior IT Tech Expert (10+ Years Experience)",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "serve": "python -m http.server 3000"
+  },
+  "keywords": [
+    "portfolio",
+    "it-tech-expert",
+    "systems-engineer",
+    "cloud-architect"
+  ],
+  "author": "",
+  "license": "ISC"
+}
